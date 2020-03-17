@@ -6,6 +6,8 @@
 
 This starter might not be necessary for most people but when I first tried using [glutin](https://docs.rs/glutin/0.24.0/glutin/) I encountered multiple problems so I decided to create a basic skeleton that could be used for any app using glutin.
 
+This starter takes a basic glutin [example](https://github.com/rust-windowing/glutin/tree/master/glutin_examples) and isolates it to the basic parts it needs to work.
+
 ## **Usage**
 
 To use this starter:
