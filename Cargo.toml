@@ -1,0 +1,20 @@
+[package]
+name = "glutin_starter"
+version = "0.1.0"
+authors = ["Robert Corponoi <robertcorponoi@gmail.com>"]
+description = "Starter for any glutin project isolated from the glutin examples."
+repository = "https://github.com/robertcorponoi/glutin-starter"
+license = "MIT"
+readme = "./README.md"
+build = "build.rs"
+edition = "2018"
+publish = false
+
+[dependencies]
+glutin = "0.24.0"
+winit = "0.22.0"
+takeable-option = "0.5.0"
+image = "0.23.1"
+
+[build-dependencies]
+gl_generator = "0.14.0"
