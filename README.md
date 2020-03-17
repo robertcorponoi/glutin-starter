@@ -1,10 +1,10 @@
 <h1 align="center">Glutin Starter</h1>
 
-<p align="center">[Glutin](https://docs.rs/glutin/0.24.0/glutin/) is used to provide an OpenGL Context on as many platforms as possible. Glutin Starter makes it easy to get started with a basic glutin setup.<p>
+<p align="center">Glutin is a crate used to provide an OpenGL Context on as many platforms as possible. Glutin Starter makes it easy to get started with a basic glutin setup.<p>
 
 ## **Why**
 
-This starter might not be necessary for most people but when I first tried using glutin I encountered multiple problems so I decided to create a basic skeleton that could be used for any app using glutin.
+This starter might not be necessary for most people but when I first tried using [glutin](https://docs.rs/glutin/0.24.0/glutin/) I encountered multiple problems so I decided to create a basic skeleton that could be used for any app using glutin.
 
 ## **Usage**
 
